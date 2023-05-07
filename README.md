@@ -32,9 +32,11 @@ My name is Aviral Yadav, currently in my sophomore year of studying Electronics 
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />     
 </p>
 
-<p>
+
+        
+        
 ![](https://komarev.com/ghpvc/?username=aviraldevv&color=blueviolet&style=for-the-badge)
-</p>
+
 
 
 <!--

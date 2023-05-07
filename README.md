@@ -35,10 +35,6 @@ My name is Aviral Yadav, currently in my sophomore year of studying Electronics 
 
         
         
-![](https://komarev.com/ghpvc/?username=aviraldevv&color=blueviolet&style=for-the-badge)
-
-
-
 <!--
 **aviraldevv/aviraldevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
